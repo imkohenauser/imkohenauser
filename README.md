@@ -38,6 +38,8 @@ an Astro / Starlight documentation site, and automated release workflows.
 
 <!-- ![MTP interface preview showing node sliders and a 19x19 color grid for tuning LLM output styles.](https://raw.githubusercontent.com/imkohenauser/mtp/main/public/ogp%402x.png) -->
 
+![MTP design background showing a conceptual color map and Wu Xing directional mapping used as a mnemonic model for semantic color nodes.](https://raw.githubusercontent.com/imkohenauser/mtp/main/public/images/pages/mtp-design-background-from-wu-xing-to-color-nodes.png)
+
 ![MTP UI background showing directional control, color nodes, and Markdown files for AI output steering.](https://raw.githubusercontent.com/imkohenauser/mtp/main/public/images/pages/mtp-interface-background-from-color-nodes-to-directional-control.png)
 
 ![MTP coordinate system showing a unified Side A/B color and node map, with presets represented as coordinate pairs on a 19x19 grid.](https://raw.githubusercontent.com/imkohenauser/mtp/main/public/images/pages/mtp-coordinate-system-and-node-layout.png)
