@@ -26,13 +26,21 @@ An open-source framework and Agent Skill for steering LLM output with
 grids, sliders, and presets instead of long natural-language behavior
 instructions.
 
+MTP is relevant to AI design evaluation because it treats subjective
+output direction in AI-generated work as something that can be structured,
+reused, compared, and reviewed.
+
 The project includes a Python compiler, CLI / ZIP distribution,
 an Astro / Starlight documentation site, and automated release workflows.
 
 - [Documentation](https://mappingtheprompt.com/)
 - [GitHub Repository](https://github.com/imkohenauser/mtp)
 
-![MTP interface preview showing node sliders and a 19x19 color grid for tuning LLM output styles.](https://raw.githubusercontent.com/imkohenauser/mtp/main/public/ogp%402x.png)
+<!-- ![MTP interface preview showing node sliders and a 19x19 color grid for tuning LLM output styles.](https://raw.githubusercontent.com/imkohenauser/mtp/main/public/ogp%402x.png) -->
+
+![MTP UI background showing directional control, color nodes, and Markdown files for AI output steering.](https://raw.githubusercontent.com/imkohenauser/mtp/main/public/images/pages/mtp-interface-background-from-color-nodes-to-directional-control.png)
+
+![MTP coordinate system showing a unified Side A/B color and node map, with presets represented as coordinate pairs on a 19x19 grid.](https://raw.githubusercontent.com/imkohenauser/mtp/main/public/images/pages/mtp-coordinate-system-and-node-layout.png)
 
 ## Links
 
