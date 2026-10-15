@@ -2,7 +2,7 @@
 
 Design Engineer, or Creative Technologist.
 
-[imkohenauser.com](https://imkohenauser.com/) · [GitHub](https://github.com/imkohenauser/pages)
+[imkohenauser.com](https://imkohenauser.com/) · [Source](https://github.com/imkohenauser/pages)
 
 ## Projects
 
