@@ -1,8 +1,8 @@
-# Kohen, or Kohei Saito
+# Kohei Saito, or 廣円 (Kohen)
 
 Design Engineer, or Creative Technologist.
 
-[imkohenauser.com](https://imkohenauser.com/) · [Source](https://github.com/imkohenauser/pages)
+[imkohenauser.com](https://imkohenauser.com/) · [GitHub](https://github.com/imkohenauser/pages)
 
 ## Projects
 
