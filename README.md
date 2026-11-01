@@ -1,6 +1,6 @@
-# Kohei Saito, or 廣円 (Kohen)
+# Kohei Saito / Kohen
 
-Design Engineer, or Creative Technologist.
+Design Engineer. I develop CX strategies, design and prototype interfaces, and write frontend code. I build harnesses for AI agents and keep them running. My background spans graphic design, print, and the web.
 
 [imkohenauser.com](https://imkohenauser.com/) · [Source](https://github.com/imkohenauser/pages)
 
